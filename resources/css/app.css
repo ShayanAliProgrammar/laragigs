@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection {
+    @apply bg-blue-500/30;
+}
+
+::-webkit-scrollbar {
+    @apply w-3 bg-gray-50;
+}
+
+::-webkit-scrollbar-thumb {
+    @apply rounded-[2px] bg-laravel;
+}
