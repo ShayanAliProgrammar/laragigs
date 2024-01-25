@@ -9,4 +9,4 @@ I built this website using:
 - Laravel
 - TailwindCSS
 - Alpine.js
-- and much more... # laragigs
+- and much more...
