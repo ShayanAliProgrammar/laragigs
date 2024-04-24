@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to Laragigs, a powerful platform designed to streamline the process of gig listing and job acquisition. Laragigs empowers freelancers and businesses to connect seamlessly, facilitating the exchange of professional services with ease and efficiency.
+Welcome to Laragigs, a platform designed to streamline the process of gig listing and job acquisition. Laragigs empowers freelancers and businesses to connect seamlessly, facilitating the exchange of professional services with ease and efficiency.
 
 ## Key Features
 
