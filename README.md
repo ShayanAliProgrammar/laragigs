@@ -64,7 +64,7 @@ php artisan serve
 npm run dev
 ```
 
-9. Visit `http://localhost:8000` in your browser to access Laragigs.
+9. Visit [http://localhost:8000](http://localhost:8000) in your browser to access Laragigs.
 
 ## Usage
 
