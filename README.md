@@ -46,10 +46,10 @@ npm install
 php artisan key:generate
 ```
 
-6. Run migrations:
+6. Run migrations and Seed Database:
 
 ```bash
-php artisan migrate
+php artisan migrate && php artisan migrate:refresh --seed
 ```
 
 7. Start the development server:
