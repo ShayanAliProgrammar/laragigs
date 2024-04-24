@@ -22,7 +22,7 @@ Welcome to Laragigs, a platform designed to streamline the process of gig listin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/laragigs.git
+git clone https://github.com/ShayanAliProgrammar/laragigs.git
 ```
 
 2. Navigate to the project directory:
